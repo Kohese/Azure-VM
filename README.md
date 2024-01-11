@@ -18,7 +18,7 @@ I was able to configure the VM and start the service with no problems. Azure giv
 
 <p align="center">
     <img src=assets/REMOTECONNECT.png width="400px" alt="remote connection" style="object-fit:contain"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src=assets/PASSWORDAUTH.png width="400px" alt="remote connection"/>
 </p>
 
