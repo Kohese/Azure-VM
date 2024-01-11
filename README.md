@@ -16,7 +16,7 @@ This homelab is my first introduction to Azure and using it set up virtual machi
 
 I was able to configure the VM and start the service with no problems. Azure gives users many differnt methods for connecting to these machines, so I was able to utilize the **Remote Desktop Connection** on my host machine to connect to the VM over **RDP** with the username and password of my Admin account.
 
-<div markdown="1" style="display:flex; gap:1rem;">
+<div markdown="1" style="display:flex; align-items:center; justify-content:center; gap:3rem;">
 
   <img src=assets/REMOTECONNECT.png width="400px" alt="remote connection" style="object-fit:contain"/>
 
