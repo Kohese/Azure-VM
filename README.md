@@ -11,7 +11,7 @@ This homelab is my first introduction to Azure and using it set up virtual machi
 
 - RDP
 
-- Powershell
+- PowerShell
 
 
 I was able to configure the VM and start the service with no problems. Azure gives users many differnt methods for connecting to these machines, so I was able to utilize the **Remote Desktop Connection** on my host machine to connect to the VM over **RDP** with the username and password of my Admin account.
